@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "HACKED";
+    src: url(HACKED.ttf);
+}
+
+
+.titoloprincipale {
+    font-family: "HACKED";
+    font-size: 80px;
+    margin-top: 50px;
+}
+
+.bottoni {
+    background-color: rgb(36, 36, 36);
+    color: rgb(0, 255, 21);
+    padding: 20px;
+    margin: 0px;
+    font-family: "Consolas";
+    text-align: center;
+}
+
+.titolo {
+    font-family: "Consolas", sans-serif;
+}
+
+.paragrafo {
+    font-family: "Consolas", sans-serif;
+}
+
+.personaggi {
+    font-family: "Consolas";
+}
